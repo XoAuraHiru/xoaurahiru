@@ -13,7 +13,7 @@ Hi there! I'm Hirun (xoaurahiru) 👋<br><br>🎓 Software Engineering student a
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xoaurahiru&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xoaurahiru&theme=cobalt&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=XoAuraHiru&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
