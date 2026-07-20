@@ -93,6 +93,17 @@ Hey, I'm **Hirun** 👋 — a Software Engineering student who treats every proj
   <img src="https://github-profile-trophy.vercel.app/?username=xoaurahiru&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </p>
 
+## 🌠 Contribution Constellation
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XoAuraHiru/xoaurahiru/output/github-snake-cosmic.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XoAuraHiru/xoaurahiru/output/github-snake-light.svg" />
+    <img alt="A comet sweeping through Hirun's real GitHub contribution graph" src="https://raw.githubusercontent.com/XoAuraHiru/xoaurahiru/output/github-snake-cosmic.svg" width="100%" />
+  </picture>
+</p>
+<p align="center"><sub>🛰️ A comet sweeping through a year of <strong>real</strong> commits — regenerated automatically every 12 hours.</sub></p>
+
 ## ✦ A Signal From the Void
 
 <p align="center">
