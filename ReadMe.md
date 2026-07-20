@@ -96,13 +96,9 @@ Hey, I'm **Hirun** 👋 — a Software Engineering student who treats every proj
 ## 🌠 Contribution Constellation
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XoAuraHiru/xoaurahiru/output/github-snake-cosmic.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XoAuraHiru/xoaurahiru/output/github-snake-light.svg" />
-    <img alt="A comet sweeping through Hirun's real GitHub contribution graph" src="https://raw.githubusercontent.com/XoAuraHiru/xoaurahiru/output/github-snake-cosmic.svg" width="100%" />
-  </picture>
+  <img src="assets/contribution-comet.svg" width="100%" alt="Hirun's GitHub contribution graph rendered as a cosmic starfield — 1,461 real contributions in the last year, with a comet sweeping across" />
 </p>
-<p align="center"><sub>🛰️ A comet sweeping through a year of <strong>real</strong> commits — regenerated automatically every 12 hours.</sub></p>
+<p align="center"><sub>🛰️ Every star is a <strong>real</strong> commit — a year of contributions mapped as a starfield, comet included. <em>Refresh anytime with <code>scripts/refresh-contributions.py</code>.</em></sub></p>
 
 ## ✦ A Signal From the Void
 
