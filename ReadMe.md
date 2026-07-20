@@ -81,30 +81,17 @@ Hey, I'm **Hirun** 👋 — a Software Engineering student who treats every proj
 ## 📡 GitHub Signal
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xoaurahiru&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=a855f7&icon_color=22d3ee&text_color=c4b5fd&bg_color=0b0620" alt="Hirun's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoaurahiru&layout=compact&langs_count=8&hide_border=true&count_private=true&title_color=a855f7&text_color=c4b5fd&bg_color=0b0620" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xoaurahiru&hide_border=true&background=0b0620&stroke=a855f7&ring=22d3ee&fire=ec4899&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=e0e7ff&sideNums=e0e7ff&dates=6b7280" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xoaurahiru&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+  <img src="assets/github-signal.svg" width="840" alt="Hirun's GitHub metrics — 83 repositories, 1,462 contributions and 212 commits in the last year, a 14-day longest streak, and a language spectrum across 27 languages led by TypeScript, JavaScript and Java" />
 </p>
 
 ## 🌠 Contribution Constellation
 
 <p align="center">
-  <img src="assets/contribution-comet.svg" width="100%" alt="Hirun's GitHub contribution graph rendered as a cosmic starfield — 1,461 real contributions in the last year, with a comet sweeping across" />
+  <img src="assets/contribution-comet.svg" width="100%" alt="Hirun's GitHub contribution graph rendered as a cosmic starfield — a year of real contributions, with a comet sweeping across" />
 </p>
-<p align="center"><sub>🛰️ Every star is a <strong>real</strong> commit — a year of contributions mapped as a starfield, comet included. <em>Refresh anytime with <code>scripts/refresh-contributions.py</code>.</em></sub></p>
+<p align="center"><sub>🛰️ Every star is a <strong>real</strong> commit — a year of contributions mapped as a starfield, comet included.</sub></p>
 
-## ✦ A Signal From the Void
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
-</p>
+<p align="center"><sub><em>Both the metrics and the starfield above are built from live GitHub data — refresh anytime with <code>python scripts/refresh-metrics.py</code>.</em></sub></p>
 
 ---
 
